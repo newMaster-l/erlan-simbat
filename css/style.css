@@ -1,21 +1,13 @@
 @font-face {
-	src: url('/fonts/Azkia.otf');
 	font-family: 'Azkia';
+	src: url('/fonts/Azkia.otf'),
+		 url('/fonts/azkia.woff');
 }
 
 @font-face {
-	src: url('/fonts/optima.ttf');
 	font-family: 'Optima';
-}
-
-@font-face {
-	src: url('/fonts/azkia.woff');
-	font-family: 'Azkia';
-}
-
-@font-face {
-	src: url('/fonts/optima.woff');
-	font-family: 'Optima';
+	src: url('/fonts/optima.ttf'),
+		 url('/fonts/optima.woff');
 }
 
 body {
