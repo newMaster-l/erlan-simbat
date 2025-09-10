@@ -1,10 +1,4 @@
 @font-face {
-	font-family: 'Azkia';
-	src: url('/fonts/Azkia.otf'),
-		 url('/fonts/azkia.woff');
-}
-
-@font-face {
 	font-family: 'Optima';
 	src: url('/fonts/optima.ttf'),
 		 url('/fonts/optima.woff');
