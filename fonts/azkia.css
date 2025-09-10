@@ -1,9 +1,9 @@
 @font-face {
 	font-family: 'Azkia';
-	src: url('../fonts/azkia.eot'); /* IE 9 Compatibility Mode */
-	src: url('../fonts/azkia.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
-		url('../fonts/azkia.woff2') format('woff2'), /* Super Modern Browsers */
-		url('../fonts/azkia.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
-		url('../fonts/azkia.ttf') format('truetype'), /* Safari, Android, iOS */
-		url('../fonts/azkia.svg#azkia') format('svg'); /* Chrome < 4, Legacy iOS */
+	src: url('fonts/azkia.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/azkia.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/azkia.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/azkia.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/azkia.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/azkia.svg#azkia') format('svg'); /* Chrome < 4, Legacy iOS */
 }
