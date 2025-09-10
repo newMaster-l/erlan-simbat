@@ -8,6 +8,16 @@
 	font-family: 'Optima';
 }
 
+@font-face {
+	src: url('/fonts/azkia.woff');
+	font-family: 'Azkia';
+}
+
+@font-face {
+	src: url('/fonts/optima.woff');
+	font-family: 'Optima';
+}
+
 body {
 	font-family: var(--main-font);
 	font-size: 16px;
