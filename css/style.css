@@ -56,8 +56,8 @@ body.unlocked .magictime {
 	text-align: center;
 }
 .hero__title {
-	font-family: 'Azkia';
-	font-size: 62px;
+	font-family: 'Azkia', sans-serif;
+	font-size: 40px;
 	font-weight: 500;
 	font-style: italic;
 	animation-delay: 0.9s;
@@ -189,9 +189,9 @@ body.unlocked .magictime {
 	font-family: var(--second-font);
 }
 .info__name {
-	font-size: 48px;
+	font-size: 40px;
 	margin-bottom: 20px;
-	font-family: 'Azkia';
+	font-family: 'Azkia', sans-serif;
 	letter-spacing: 3px;
 }
 .info__text {
