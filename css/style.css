@@ -185,7 +185,7 @@ body.unlocked .magictime {
 }
 .info__names {
 	margin-bottom: 12px;
-	font-size: 18px;
+	font-size: 24px;
 	font-family: var(--second-font);
 }
 .info__name {
