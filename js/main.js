@@ -103,7 +103,7 @@ if (modal && openBtnModal && closeBtnModal) {
 // Countdown Timer
 // =======================
 function startCountdown() {
-	const targetDate = new Date('2025-10-18T19:00:00').getTime();
+	const targetDate = new Date('2025-10-18T18:00:00').getTime();
 	const container = document.querySelector('.countdown-container');
 	if (!container) return;
 
